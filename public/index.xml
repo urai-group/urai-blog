@@ -2,701 +2,371 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>University of Regensburg Artificial Intelligence on URAI Blog</title>
-    <link>https://blog.urai-group.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in University of Regensburg Artificial Intelligence on URAI Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@urai-group.com (URAI)</managingEditor>
     <webMaster>contact@urai-group.com (URAI)</webMaster>
     <copyright>© 2025 URAI</copyright>
-    <lastBuildDate>Thu, 27 Nov 2025 21:12:06 +0100</lastBuildDate><atom:link href="https://blog.urai-group.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome to Blowfish</title>
-      <link>https://blog.urai-group.com/docs/welcome/</link>
+      <link>http://localhost:1313/docs/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/welcome/</guid>
+      <guid>http://localhost:1313/docs/welcome/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/welcome/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.svg" />
     </item>
     
     <item>
       <title>Installation</title>
-      <link>https://blog.urai-group.com/docs/installation/</link>
+      <link>http://localhost:1313/docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/installation/</guid>
+      <guid>http://localhost:1313/docs/installation/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/installation/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.svg" />
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>https://blog.urai-group.com/docs/getting-started/</link>
+      <link>http://localhost:1313/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/getting-started/</guid>
+      <guid>http://localhost:1313/docs/getting-started/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/getting-started/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/getting-started/featured.svg" />
     </item>
     
     <item>
       <title>Configuration</title>
-      <link>https://blog.urai-group.com/docs/configuration/</link>
+      <link>http://localhost:1313/docs/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/configuration/</guid>
+      <guid>http://localhost:1313/docs/configuration/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/configuration/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configuration/featured.svg" />
     </item>
     
     <item>
       <title>Homepage Layout</title>
-      <link>https://blog.urai-group.com/docs/homepage-layout/</link>
+      <link>http://localhost:1313/docs/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/homepage-layout/</guid>
+      <guid>http://localhost:1313/docs/homepage-layout/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/homepage-layout/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>https://blog.urai-group.com/docs/shortcodes/</link>
+      <link>http://localhost:1313/docs/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/shortcodes/</guid>
+      <guid>http://localhost:1313/docs/shortcodes/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/shortcodes/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
     </item>
     
     <item>
       <title>Front Matter</title>
-      <link>https://blog.urai-group.com/docs/front-matter/</link>
+      <link>http://localhost:1313/docs/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/front-matter/</guid>
+      <guid>http://localhost:1313/docs/front-matter/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/front-matter/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/front-matter/featured.svg" />
     </item>
     
     <item>
       <title>Multiple Authors</title>
-      <link>https://blog.urai-group.com/docs/multi-author/</link>
+      <link>http://localhost:1313/docs/multi-author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/multi-author/</guid>
+      <guid>http://localhost:1313/docs/multi-author/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/multi-author/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/multi-author/featured.svg" />
     </item>
     
     <item>
       <title>Partials</title>
-      <link>https://blog.urai-group.com/docs/partials/</link>
+      <link>http://localhost:1313/docs/partials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/partials/</guid>
+      <guid>http://localhost:1313/docs/partials/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/partials/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/partials/featured.svg" />
     </item>
     
     <item>
       <title>Thumbnails</title>
-      <link>https://blog.urai-group.com/docs/thumbnails/</link>
+      <link>http://localhost:1313/docs/thumbnails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/thumbnails/</guid>
+      <guid>http://localhost:1313/docs/thumbnails/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/thumbnails/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/thumbnails/featured.svg" />
     </item>
     
     <item>
       <title>Content Examples</title>
-      <link>https://blog.urai-group.com/docs/content-examples/</link>
+      <link>http://localhost:1313/docs/content-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/content-examples/</guid>
+      <guid>http://localhost:1313/docs/content-examples/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/content-examples/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/content-examples/featured.svg" />
     </item>
     
     <item>
       <title>Series</title>
-      <link>https://blog.urai-group.com/docs/series/</link>
+      <link>http://localhost:1313/docs/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/series/</guid>
+      <guid>http://localhost:1313/docs/series/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/series/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/series/featured.svg" />
     </item>
     
     <item>
       <title>Advanced Customisation</title>
-      <link>https://blog.urai-group.com/docs/advanced-customisation/</link>
+      <link>http://localhost:1313/docs/advanced-customisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/advanced-customisation/</guid>
+      <guid>http://localhost:1313/docs/advanced-customisation/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/advanced-customisation/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
     </item>
     
     <item>
       <title>Hosting &amp; Deployment</title>
-      <link>https://blog.urai-group.com/docs/hosting-deployment/</link>
+      <link>http://localhost:1313/docs/hosting-deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/hosting-deployment/</guid>
+      <guid>http://localhost:1313/docs/hosting-deployment/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/hosting-deployment/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hosting-deployment/featured.svg" />
     </item>
     
     <item>
       <title>Firebase: Views &amp; Likes</title>
-      <link>https://blog.urai-group.com/docs/firebase-views/</link>
+      <link>http://localhost:1313/docs/firebase-views/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/firebase-views/</guid>
+      <guid>http://localhost:1313/docs/firebase-views/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/docs/firebase-views/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/firebase-views/featured.svg" />
     </item>
     
     <item>
       <title>Build your homepage using Blowfish and Hugo</title>
-      <link>https://blog.urai-group.com/guides/202310-blowfish-tutorial/</link>
+      <link>http://localhost:1313/guides/202310-blowfish-tutorial/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/guides/202310-blowfish-tutorial/</guid>
+      <guid>http://localhost:1313/guides/202310-blowfish-tutorial/</guid>
       <description>Just one year ago, I created Blowfish, a Hugo theme crafted to build my unique vision for my personal homepage. I also decided to make it an open-source project. Fast-forward to today, and Blowfish has transformed into a thriving open-source project with over 600 stars on GitHub and a user base of hundreds. In this tutorial, I’ll show you how to get started and have your website running in a couple of minutes.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/guides/202310-blowfish-tutorial/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Blowfish Tutorial</title>
-      <link>https://blog.urai-group.com/examples/blowfish-tutorial/_index.it/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-tutorial/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Tutorial</title>
-      <link>https://blog.urai-group.com/examples/blowfish-tutorial/_index.zh-cn/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-tutorial/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish チュートリアル</title>
-      <link>https://blog.urai-group.com/examples/blowfish-tutorial/_index.ja/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-tutorial/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Tutorial - Repo</title>
-      <link>https://blog.urai-group.com/examples/repo-blowfish-tutorial/_index.it/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/repo-blowfish-tutorial/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Tutorial - Repo</title>
-      <link>https://blog.urai-group.com/examples/repo-blowfish-tutorial/_index.zh-cn/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/repo-blowfish-tutorial/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish チュートリアル - レポジトリ</title>
-      <link>https://blog.urai-group.com/examples/repo-blowfish-tutorial/_index.ja/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/repo-blowfish-tutorial/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite</title>
-      <link>https://blog.urai-group.com/examples/blowfish-lite/_index.it/</link>
-      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-lite/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite</title>
-      <link>https://blog.urai-group.com/examples/blowfish-lite/_index.ja/</link>
-      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-lite/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite</title>
-      <link>https://blog.urai-group.com/examples/blowfish-lite/_index.zh-cn/</link>
-      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-lite/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist</title>
-      <link>https://blog.urai-group.com/examples/blowfish-artist/_index.it/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-artist/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist</title>
-      <link>https://blog.urai-group.com/examples/blowfish-artist/_index.ja/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-artist/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist</title>
-      <link>https://blog.urai-group.com/examples/blowfish-artist/_index.zh-cn/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-artist/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey</title>
-      <link>https://blog.urai-group.com/examples/blowfish-lowkey/_index.it/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-lowkey/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey</title>
-      <link>https://blog.urai-group.com/examples/blowfish-lowkey/_index.ja/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-lowkey/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey</title>
-      <link>https://blog.urai-group.com/examples/blowfish-lowkey/_index.zh-cn/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-lowkey/_index.zh-cn/</guid>
-      <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/202310-blowfish-tutorial/featured.jpg" />
     </item>
     
     <item>
       <title>Multiple Authors</title>
-      <link>https://blog.urai-group.com/samples/multiple-authors/</link>
+      <link>http://localhost:1313/samples/multiple-authors/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/multiple-authors/</guid>
+      <guid>http://localhost:1313/samples/multiple-authors/</guid>
       <description>A quick example of how multiple authors could be used.</description>
       
     </item>
     
     <item>
       <title>Thumbnails</title>
-      <link>https://blog.urai-group.com/samples/thumbnail_sample/</link>
+      <link>http://localhost:1313/samples/thumbnail_sample/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/thumbnail_sample/</guid>
+      <guid>http://localhost:1313/samples/thumbnail_sample/</guid>
       <description>A quick example of how to start using Thumbnails in your artciles.</description>
       
     </item>
     
     <item>
-      <title>Blowfish Lite - Repo</title>
-      <link>https://blog.urai-group.com/examples/repo-blowfish-lite/_index.it/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/repo-blowfish-lite/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite - Repo</title>
-      <link>https://blog.urai-group.com/examples/repo-blowfish-lite/_index.zh-cn/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/repo-blowfish-lite/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite - レポジトリ</title>
-      <link>https://blog.urai-group.com/examples/repo-blowfish-lite/_index.ja/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/repo-blowfish-lite/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist - Repo</title>
-      <link>https://blog.urai-group.com/examples/repo-blowfish-artist/_index.it/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/repo-blowfish-artist/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist - Repo</title>
-      <link>https://blog.urai-group.com/examples/repo-blowfish-artist/_index.zh-cn/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/repo-blowfish-artist/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist - レポジトリ</title>
-      <link>https://blog.urai-group.com/examples/repo-blowfish-artist/_index.ja/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/repo-blowfish-artist/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey - Repo</title>
-      <link>https://blog.urai-group.com/examples/repo-blowfish-lowkey/_index.it/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/repo-blowfish-lowkey/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey - Repo</title>
-      <link>https://blog.urai-group.com/examples/repo-blowfish-lowkey/_index.zh-cn/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/repo-blowfish-lowkey/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey - レポジトリ</title>
-      <link>https://blog.urai-group.com/examples/repo-blowfish-lowkey/_index.ja/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/repo-blowfish-lowkey/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template</title>
-      <link>https://blog.urai-group.com/examples/blowfish-template/_index.it/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-template/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template</title>
-      <link>https://blog.urai-group.com/examples/blowfish-template/_index.zh-cn/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-template/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template - GitHub Repo</title>
-      <link>https://blog.urai-group.com/examples/blowfish-template-repo/_index.it/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-template-repo/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template - GitHub Repo</title>
-      <link>https://blog.urai-group.com/examples/blowfish-template-repo/_index.zh-cn/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-template-repo/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish テンプレート</title>
-      <link>https://blog.urai-group.com/examples/blowfish-template/_index.ja/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-template/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish テンプレート - GitHub レポジトリ</title>
-      <link>https://blog.urai-group.com/examples/blowfish-template-repo/_index.ja/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/blowfish-template-repo/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Icons</title>
-      <link>https://blog.urai-group.com/samples/icons/</link>
+      <link>http://localhost:1313/samples/icons/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/icons/</guid>
+      <guid>http://localhost:1313/samples/icons/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://blog.urai-group.com/samples/markdown/</link>
+      <link>http://localhost:1313/samples/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/markdown/</guid>
+      <guid>http://localhost:1313/samples/markdown/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://blog.urai-group.com/samples/rich-content/</link>
+      <link>http://localhost:1313/samples/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/rich-content/</guid>
+      <guid>http://localhost:1313/samples/rich-content/</guid>
       <description>This is an &lt;em&gt;example&lt;/em&gt; of a &lt;strong&gt;rich&lt;/strong&gt; content summary.</description>
       
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://blog.urai-group.com/samples/placeholder-text/</link>
+      <link>http://localhost:1313/samples/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/placeholder-text/</guid>
+      <guid>http://localhost:1313/samples/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Mathematical notation</title>
-      <link>https://blog.urai-group.com/samples/mathematical-notation/</link>
+      <link>http://localhost:1313/samples/mathematical-notation/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/mathematical-notation/</guid>
+      <guid>http://localhost:1313/samples/mathematical-notation/</guid>
       <description>&lt;p&gt;KaTeX can be used to render mathematical notation within articles.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Charts</title>
-      <link>https://blog.urai-group.com/samples/charts/</link>
+      <link>http://localhost:1313/samples/charts/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/charts/</guid>
+      <guid>http://localhost:1313/samples/charts/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
       
     </item>
     
     <item>
       <title>Diagrams and Flowcharts</title>
-      <link>https://blog.urai-group.com/samples/diagrams-flowcharts/</link>
+      <link>http://localhost:1313/samples/diagrams-flowcharts/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/diagrams-flowcharts/</guid>
+      <guid>http://localhost:1313/samples/diagrams-flowcharts/</guid>
       <description>It&amp;rsquo;s easy to add diagrams and flowcharts to articles using Mermaid.</description>
       
     </item>
     
     <item>
       <title>Emoji :parachute:</title>
-      <link>https://blog.urai-group.com/samples/emoji/</link>
+      <link>http://localhost:1313/samples/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/emoji/</guid>
+      <guid>http://localhost:1313/samples/emoji/</guid>
       <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
       
     </item>
     
     <item>
       <title>Recipe Template</title>
-      <link>https://blog.urai-group.com/guides/template/</link>
+      <link>http://localhost:1313/guides/template/</link>
       <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/guides/template/</guid>
+      <guid>http://localhost:1313/guides/template/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/guides/template/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/template/featured.jpg" />
     </item>
     
     <item>
       <title>Campioni</title>
-      <link>https://blog.urai-group.com/samples/_index.it/</link>
+      <link>http://localhost:1313/samples/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/_index.it/</guid>
+      <guid>http://localhost:1313/samples/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Documenti</title>
-      <link>https://blog.urai-group.com/docs/_index.it/</link>
+      <link>http://localhost:1313/docs/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/_index.it/</guid>
+      <guid>http://localhost:1313/docs/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Recipes</title>
-      <link>https://blog.urai-group.com/guides/_index.it/</link>
+      <link>http://localhost:1313/guides/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/guides/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Showcase</title>
-      <link>https://blog.urai-group.com/examples/_index.it/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Showcase</title>
-      <link>https://blog.urai-group.com/examples/_index.zh-cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/guides/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>サンプル</title>
-      <link>https://blog.urai-group.com/samples/_index.ja/</link>
+      <link>http://localhost:1313/samples/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ショーケース</title>
-      <link>https://blog.urai-group.com/examples/_index.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/examples/_index.ja/</guid>
+      <guid>http://localhost:1313/samples/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ドキュメント</title>
-      <link>https://blog.urai-group.com/docs/_index.ja/</link>
+      <link>http://localhost:1313/docs/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/_index.ja/</guid>
+      <guid>http://localhost:1313/docs/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>レシピ</title>
-      <link>https://blog.urai-group.com/guides/_index.ja/</link>
+      <link>http://localhost:1313/guides/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/guides/_index.ja/</guid>
+      <guid>http://localhost:1313/guides/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>使用指南</title>
-      <link>https://blog.urai-group.com/guides/_index.zh-cn/</link>
+      <link>http://localhost:1313/guides/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/guides/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/guides/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>文档</title>
-      <link>https://blog.urai-group.com/docs/_index.zh-cn/</link>
+      <link>http://localhost:1313/docs/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/docs/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/docs/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>示例</title>
-      <link>https://blog.urai-group.com/samples/_index.zh-cn/</link>
+      <link>http://localhost:1313/samples/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/samples/_index.zh-cn/</guid>
       <description></description>
       
     </item>

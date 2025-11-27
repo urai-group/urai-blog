@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="true"><head>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="en">
@@ -26,7 +26,7 @@
   
   
   
-  <link rel="canonical" href="https://blog.urai-group.com/guides/">
+  <link rel="canonical" href="http://localhost:1313/guides/">
   
     
       <link rel="alternate" type="application/rss+xml" href="/guides/index.xml" title="URAI Blog" />
@@ -83,7 +83,7 @@
   
 
   
-  <meta property="og:url" content="https://blog.urai-group.com/guides/">
+  <meta property="og:url" content="http://localhost:1313/guides/">
   <meta property="og:site_name" content="URAI Blog">
   <meta property="og:title" content="Recipes">
   <meta property="og:description" content="Recipes, guides, and tutorials for Blowfish">
@@ -247,7 +247,7 @@
     "description": "Recipes, guides, and tutorials for Blowfish",
     
     "inLanguage": "en",
-    "url" : "https://blog.urai-group.com/guides/",
+    "url" : "http://localhost:1313/guides/",
     "author" : {
       "@type": "Person",
       "name": "URAI"
@@ -268,12 +268,6 @@
 
 
   
-  
-    
-
-
-
-
   
 
   
@@ -319,7 +313,13 @@
     </div>
     
     
-      
+      <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 z-100">
+  <div
+    id="menu-blur"
+    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative m-auto leading-7 max-w-7xl px-6 sm:px-14 md:px-24 lg:px-32">
+    
 
 
 
@@ -365,6 +365,24 @@
     
   <nav class="hidden md:flex items-center gap-x-5 md:ml-12 h-12">
     
+      
+        
+  <a
+  href="/posts/"
+  
+  class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
+  aria-label="Blog"
+  title="Posts">
+  
+  
+    <p class="text-base font-medium">
+      Blog
+    </p>
+  
+</a>
+
+
+
       
         
   <a
@@ -484,6 +502,26 @@
               
   <li class="mt-1">
   <a
+    href="/posts/"
+    
+    class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
+    aria-label="Blog"
+    title="Posts">
+    
+    
+      <p class="text-bg font-bg">
+        Blog
+      </p>
+    
+  </a>
+</li>
+
+
+
+            
+              
+  <li class="mt-1">
+  <a
     href="/samples/"
     
     class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
@@ -515,6 +553,16 @@
 
 
 
+  </div>
+</div>
+
+
+<script
+  type="text/javascript"
+  src="/js/background-blur.min.00a57c73ea12f2cab2980c3c3d649e89f6d82f190f74bbe2b67f2f5e39ab7d032ece47086400ca05396758aace13299da49aca43ea643d2625e62c506267a169.js"
+  integrity="sha512-AKV8c&#43;oS8sqymAw8PWSeifbYLxkPdLvitn8vXjmrfQMuzkcIZADKBTlnWKrOEymdpJrKQ&#43;pkPSYl5ixQYmehaQ=="
+  data-blur-id="menu-blur"></script>
+
     
     <div class="relative flex flex-col grow">
       <main id="main-content" class="grow">
@@ -524,6 +572,43 @@
   
 
   
+  
+    
+    
+      
+
+
+
+
+
+
+
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+
+
+  
+  
+
+
+
+
+  
+
+
+
+
+
+    
   
 
   
@@ -591,8 +676,8 @@
 <p><strong>Blowfish user?</strong> To add your guide to this list, <a
   href="/guides/template/">check the template</a>.</p>
 <p>This section contains guides for a variety of scenarios on how to configure your theme. If you&rsquo;re new, check out the <a
-  href="https://blog.urai-group.com/docs/installation/">Installation</a> guide to begin or visit the <a
-  href="https://blog.urai-group.com/samples/">Samples</a> section to see what Blowfish can do.</p>
+  href="http://localhost:1313/docs/installation/">Installation</a> guide to begin or visit the <a
+  href="http://localhost:1313/samples/">Samples</a> section to see what Blowfish can do.</p>
 <hr>
 
     </div>
@@ -607,29 +692,13 @@
     
 
     
-      <section class="space-y-10 w-full">
+      
         
-          
-            
-              <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-                2023
-              </h2>
-            
+          <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
             
               
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
+                
+                  
 
 
 
@@ -668,9 +737,10 @@
 
 
 
-<article class="flex flex-col md:flex-row relative">
+<article
+  class="relative min-h-full min-w-full overflow-hidden rounded border border-2 border-neutral-200 shadow-2xl dark:border-neutral-700">
   
-    <div class="flex-none relative overflow-hidden  thumbnail-shadow md:mr-7 thumbnail">
+    <div class="flex-none relative overflow-hidden thumbnail_card">
       <img
         src="/guides/202310-blowfish-tutorial/featured_hu_3d57de9fd5511b78.jpg"
         alt="Build your homepage using Blowfish and Hugo"
@@ -679,8 +749,9 @@
         class="not-prose absolute inset-0 w-full h-full object-cover">
     </div>
   
-  <div class=" mt-3 md:mt-0">
-    <header class="items-center text-start text-xl font-semibold">
+  
+  <div class="px-6 py-4">
+    <header>
       <a
         
           href="https://n9o.xyz/posts/202310-blowfish-tutorial/" target="_blank" rel="external"
@@ -696,8 +767,6 @@
           
         </h2>
       </a>
-      
-      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -767,28 +836,10 @@
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-            
-          
-            
-              <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-                1987
-              </h2>
-            
-            
+                
               
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
+                
+                  
 
 
 
@@ -827,9 +878,10 @@
 
 
 
-<article class="flex flex-col md:flex-row relative">
+<article
+  class="relative min-h-full min-w-full overflow-hidden rounded border border-2 border-neutral-200 shadow-2xl dark:border-neutral-700">
   
-    <div class="flex-none relative overflow-hidden  thumbnail-shadow md:mr-7 thumbnail">
+    <div class="flex-none relative overflow-hidden thumbnail_card">
       <img
         src="/guides/template/featured_hu_4a50e0c012d8ed2e.jpg"
         alt="Recipe Template"
@@ -838,8 +890,9 @@
         class="not-prose absolute inset-0 w-full h-full object-cover">
     </div>
   
-  <div class=" mt-3 md:mt-0">
-    <header class="items-center text-start text-xl font-semibold">
+  
+  <div class="px-6 py-4">
+    <header>
       <a
         
           href="/guides/template/"
@@ -850,8 +903,6 @@
           
         </h2>
       </a>
-      
-      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -921,28 +972,10 @@
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-            
-          
-            
-              <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-                0001
-              </h2>
-            
-            
+                
               
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
+                
+                  
 
 
 
@@ -979,10 +1012,12 @@
 
 
 
-<article class="flex flex-col md:flex-row relative">
+<article
+  class="relative min-h-full min-w-full overflow-hidden rounded border border-2 border-neutral-200 shadow-2xl dark:border-neutral-700">
   
-  <div class=" mt-3 md:mt-0">
-    <header class="items-center text-start text-xl font-semibold">
+  
+  <div class="px-6 py-4">
+    <header>
       <a
         
           href="/guides/_index.zh-cn/"
@@ -993,8 +1028,6 @@
           
         </h2>
       </a>
-      
-      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1064,21 +1097,8 @@
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-            
-              
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
+                
+                  
 
 
 
@@ -1115,10 +1135,12 @@
 
 
 
-<article class="flex flex-col md:flex-row relative">
+<article
+  class="relative min-h-full min-w-full overflow-hidden rounded border border-2 border-neutral-200 shadow-2xl dark:border-neutral-700">
   
-  <div class=" mt-3 md:mt-0">
-    <header class="items-center text-start text-xl font-semibold">
+  
+  <div class="px-6 py-4">
+    <header>
       <a
         
           href="/guides/_index.ja/"
@@ -1129,8 +1151,6 @@
           
         </h2>
       </a>
-      
-      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1200,21 +1220,8 @@
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-            
-              
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
+                
+                  
 
 
 
@@ -1251,10 +1258,12 @@
 
 
 
-<article class="flex flex-col md:flex-row relative">
+<article
+  class="relative min-h-full min-w-full overflow-hidden rounded border border-2 border-neutral-200 shadow-2xl dark:border-neutral-700">
   
-  <div class=" mt-3 md:mt-0">
-    <header class="items-center text-start text-xl font-semibold">
+  
+  <div class="px-6 py-4">
+    <header>
       <a
         
           href="/guides/_index.it/"
@@ -1265,8 +1274,6 @@
           
         </h2>
       </a>
-      
-      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1336,11 +1343,12 @@
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
+                
+              
             
-          
+          </section>
         
-      </section>
-    
+      
     
   
   
@@ -1385,14 +1393,6 @@
 
     
     
-      <p class="text-xs text-neutral-500 dark:text-neutral-400">
-        
-        
-        Powered by <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-          href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
-          href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>
-      </p>
-    
   </div>
   
     <script>
@@ -1415,7 +1415,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="https://blog.urai-group.com/">
+  data-url="http://localhost:1313/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">
