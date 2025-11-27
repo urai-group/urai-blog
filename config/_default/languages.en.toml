@@ -1,11 +1,18 @@
-disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 1
-title = "URAI"
-
 [params]
-displayName = "EN"
-isoCode = "en"
-rtl = false
-dateFormat = "2 January 2006"
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/URAI_Logo_Portrait_negative.png"
+  description = "The official blog website of URAI"
+
+[params.author]
+  name = "URAI"
+  email = "contact@urai-group.com"
+  image = "img/URAI_Logo_Portrait_negative.png"
+  headline = "A powerful, lightweight theme for Hugo."
+  bio = "A powerful, lightweight theme for Hugo."
+  links = [
+    { x-twitter = "https://twitter.com/burufugu" },
+    { github = "https://github.com/nunocoracao/blowfish" },
+  ]
