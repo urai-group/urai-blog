@@ -2,131 +2,131 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on URAI Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://blog.urai-group.com/tags/</link>
     <description>Recent content in Tags on URAI Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@urai-group.com (URAI)</managingEditor>
     <webMaster>contact@urai-group.com (URAI)</webMaster>
     <copyright>© 2025 URAI</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.urai-group.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Authors</title>
-      <link>http://localhost:1313/tags/authors/</link>
+      <link>https://blog.urai-group.com/tags/authors/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/tags/authors/</guid>
+      <guid>https://blog.urai-group.com/tags/authors/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sample</title>
-      <link>http://localhost:1313/tags/sample/</link>
+      <link>https://blog.urai-group.com/tags/sample/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/tags/sample/</guid>
+      <guid>https://blog.urai-group.com/tags/sample/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Thumbnail</title>
-      <link>http://localhost:1313/tags/thumbnail/</link>
+      <link>https://blog.urai-group.com/tags/thumbnail/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/tags/thumbnail/</guid>
+      <guid>https://blog.urai-group.com/tags/thumbnail/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
+      <link>https://blog.urai-group.com/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/tags/css/</guid>
+      <guid>https://blog.urai-group.com/tags/css/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
+      <link>https://blog.urai-group.com/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/tags/html/</guid>
+      <guid>https://blog.urai-group.com/tags/html/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://blog.urai-group.com/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>https://blog.urai-group.com/tags/markdown/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Latin</title>
-      <link>http://localhost:1313/tags/latin/</link>
+      <link>https://blog.urai-group.com/tags/latin/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/tags/latin/</guid>
+      <guid>https://blog.urai-group.com/tags/latin/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Text</title>
-      <link>http://localhost:1313/tags/text/</link>
+      <link>https://blog.urai-group.com/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/tags/text/</guid>
+      <guid>https://blog.urai-group.com/tags/text/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Emoji</title>
-      <link>http://localhost:1313/tags/emoji/</link>
+      <link>https://blog.urai-group.com/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/tags/emoji/</guid>
+      <guid>https://blog.urai-group.com/tags/emoji/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docs</title>
-      <link>http://localhost:1313/tags/docs/</link>
+      <link>https://blog.urai-group.com/tags/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/tags/docs/</guid>
+      <guid>https://blog.urai-group.com/tags/docs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>New</title>
-      <link>http://localhost:1313/tags/new/</link>
+      <link>https://blog.urai-group.com/tags/new/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/tags/new/</guid>
+      <guid>https://blog.urai-group.com/tags/new/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>research</title>
-      <link>http://localhost:1313/tags/research/</link>
+      <link>https://blog.urai-group.com/tags/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/tags/research/</guid>
+      <guid>https://blog.urai-group.com/tags/research/</guid>
       <description></description>
       
     </item>

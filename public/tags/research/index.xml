@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>research on URAI Blog</title>
-    <link>http://localhost:1313/tags/research/</link>
+    <link>https://blog.urai-group.com/tags/research/</link>
     <description>Recent content in research on URAI Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@urai-group.com (URAI)</managingEditor>
     <webMaster>contact@urai-group.com (URAI)</webMaster>
     <copyright>© 2025 URAI</copyright>
-    <atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.urai-group.com/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
