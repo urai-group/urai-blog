@@ -1,8 +1,8 @@
 ---
-author = "URAI"
-date = '2025-11-27T21:12:06+01:00'
-draft = true
-title = 'Welcome'
+author: "URAI"
+date: '2025-11-27T21:12:06+01:00'
+draft: true
+title: "Welcome"
 ---
 
 # Introduction
