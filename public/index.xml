@@ -2,112 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>University of Regensburg Artificial Intelligence on URAI Blog</title>
-    <link>https://blog.urai-group.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in University of Regensburg Artificial Intelligence on URAI Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@urai-group.com (URAI)</managingEditor>
     <webMaster>contact@urai-group.com (URAI)</webMaster>
     <copyright>© 2025 URAI</copyright>
-    <lastBuildDate>Thu, 27 Nov 2025 12:00:00 +0000</lastBuildDate><atom:link href="https://blog.urai-group.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Welcome to Blowfish</title>
-      <link>https://blog.urai-group.com/posts/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/posts/welcome/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.urai-group.com/posts/welcome/featured.svg" />
-    </item>
+    <lastBuildDate>Thu, 27 Nov 2025 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome</title>
-      <link>https://blog.urai-group.com/posts_bkp/welcome/</link>
+      <link>http://localhost:1313/posts/welcome/</link>
       <pubDate>Thu, 27 Nov 2025 12:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/posts_bkp/welcome/</guid>
+      <guid>http://localhost:1313/posts/welcome/</guid>
       <description>Welcome to the URAI blog website</description>
       
     </item>
     
     <item>
       <title>Multiple Authors</title>
-      <link>https://blog.urai-group.com/samples/multiple-authors/</link>
+      <link>http://localhost:1313/samples/multiple-authors/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/multiple-authors/</guid>
+      <guid>http://localhost:1313/samples/multiple-authors/</guid>
       <description>A quick example of how multiple authors could be used.</description>
       
     </item>
     
     <item>
       <title>Thumbnails</title>
-      <link>https://blog.urai-group.com/samples/thumbnail_sample/</link>
+      <link>http://localhost:1313/samples/thumbnail_sample/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/thumbnail_sample/</guid>
+      <guid>http://localhost:1313/samples/thumbnail_sample/</guid>
       <description>A quick example of how to start using Thumbnails in your artciles.</description>
       
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://blog.urai-group.com/samples/markdown/</link>
+      <link>http://localhost:1313/samples/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/markdown/</guid>
+      <guid>http://localhost:1313/samples/markdown/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://blog.urai-group.com/samples/placeholder-text/</link>
+      <link>http://localhost:1313/samples/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/placeholder-text/</guid>
+      <guid>http://localhost:1313/samples/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Emoji :parachute:</title>
-      <link>https://blog.urai-group.com/samples/emoji/</link>
+      <link>http://localhost:1313/samples/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/emoji/</guid>
+      <guid>http://localhost:1313/samples/emoji/</guid>
       <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
-      
-    </item>
-    
-    <item>
-      <title>Documenti</title>
-      <link>https://blog.urai-group.com/posts/_index.it/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/posts/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ドキュメント</title>
-      <link>https://blog.urai-group.com/posts/_index.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/posts/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>文档</title>
-      <link>https://blog.urai-group.com/posts/_index.zh-cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/posts/_index.zh-cn/</guid>
-      <description></description>
       
     </item>
     

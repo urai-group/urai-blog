@@ -1,6 +1,6 @@
 ---
-title: "Documentation"
-description: "Learn how to use Blowfish and its features."
+title: "Welcome"
+description: ""
 
 cascade:
   showDate: false
@@ -8,9 +8,3 @@ cascade:
   invertPagination: true
 ---
 
-{{< lead >}}
-Simple, yet powerful. Learn how to use Blowfish and its features.
-{{< /lead >}}
-
-
----
