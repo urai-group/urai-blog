@@ -32,16 +32,6 @@
     </item>
     
     <item>
-      <title>Getting Started</title>
-      <link>http://localhost:1313/docs/getting-started/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/getting-started/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/getting-started/featured.svg" />
-    </item>
-    
-    <item>
       <title>Configuration</title>
       <link>http://localhost:1313/docs/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -112,16 +102,6 @@
     </item>
     
     <item>
-      <title>Content Examples</title>
-      <link>http://localhost:1313/docs/content-examples/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/content-examples/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/content-examples/featured.svg" />
-    </item>
-    
-    <item>
       <title>Series</title>
       <link>http://localhost:1313/docs/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -129,16 +109,6 @@
       <guid>http://localhost:1313/docs/series/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/series/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Advanced Customisation</title>
-      <link>http://localhost:1313/docs/advanced-customisation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/advanced-customisation/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
     </item>
     
     <item>

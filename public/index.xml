@@ -9,167 +9,7 @@
     <managingEditor>contact@urai-group.com (URAI)</managingEditor>
     <webMaster>contact@urai-group.com (URAI)</webMaster>
     <copyright>© 2025 URAI</copyright>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Welcome to Blowfish</title>
-      <link>http://localhost:1313/docs/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/welcome/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Installation</title>
-      <link>http://localhost:1313/docs/installation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/installation/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Getting Started</title>
-      <link>http://localhost:1313/docs/getting-started/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/getting-started/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/getting-started/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Configuration</title>
-      <link>http://localhost:1313/docs/configuration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/configuration/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configuration/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Homepage Layout</title>
-      <link>http://localhost:1313/docs/homepage-layout/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/homepage-layout/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Shortcodes</title>
-      <link>http://localhost:1313/docs/shortcodes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/shortcodes/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Front Matter</title>
-      <link>http://localhost:1313/docs/front-matter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/front-matter/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/front-matter/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Multiple Authors</title>
-      <link>http://localhost:1313/docs/multi-author/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/multi-author/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/multi-author/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Partials</title>
-      <link>http://localhost:1313/docs/partials/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/partials/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/partials/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Thumbnails</title>
-      <link>http://localhost:1313/docs/thumbnails/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/thumbnails/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/thumbnails/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Content Examples</title>
-      <link>http://localhost:1313/docs/content-examples/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/content-examples/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/content-examples/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Series</title>
-      <link>http://localhost:1313/docs/series/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/series/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/series/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Advanced Customisation</title>
-      <link>http://localhost:1313/docs/advanced-customisation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/advanced-customisation/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Hosting &amp; Deployment</title>
-      <link>http://localhost:1313/docs/hosting-deployment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/hosting-deployment/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hosting-deployment/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Firebase: Views &amp; Likes</title>
-      <link>http://localhost:1313/docs/firebase-views/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/firebase-views/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/firebase-views/featured.svg" />
-    </item>
-    
-    <item>
-      <title>Build your homepage using Blowfish and Hugo</title>
-      <link>http://localhost:1313/guides/202310-blowfish-tutorial/</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/guides/202310-blowfish-tutorial/</guid>
-      <description>Just one year ago, I created Blowfish, a Hugo theme crafted to build my unique vision for my personal homepage. I also decided to make it an open-source project. Fast-forward to today, and Blowfish has transformed into a thriving open-source project with over 600 stars on GitHub and a user base of hundreds. In this tutorial, I’ll show you how to get started and have your website running in a couple of minutes.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/202310-blowfish-tutorial/featured.jpg" />
-    </item>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Multiple Authors</title>
@@ -188,16 +28,6 @@
       <author>contact@urai-group.com (URAI)</author>
       <guid>http://localhost:1313/samples/thumbnail_sample/</guid>
       <description>A quick example of how to start using Thumbnails in your artciles.</description>
-      
-    </item>
-    
-    <item>
-      <title>Icons</title>
-      <link>http://localhost:1313/samples/icons/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/samples/icons/</guid>
-      <description></description>
       
     </item>
     
@@ -232,36 +62,6 @@
     </item>
     
     <item>
-      <title>Mathematical notation</title>
-      <link>http://localhost:1313/samples/mathematical-notation/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/samples/mathematical-notation/</guid>
-      <description>&lt;p&gt;KaTeX can be used to render mathematical notation within articles.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Charts</title>
-      <link>http://localhost:1313/samples/charts/</link>
-      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/samples/charts/</guid>
-      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
-      
-    </item>
-    
-    <item>
-      <title>Diagrams and Flowcharts</title>
-      <link>http://localhost:1313/samples/diagrams-flowcharts/</link>
-      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/samples/diagrams-flowcharts/</guid>
-      <description>It&amp;rsquo;s easy to add diagrams and flowcharts to articles using Mermaid.</description>
-      
-    </item>
-    
-    <item>
       <title>Emoji :parachute:</title>
       <link>http://localhost:1313/samples/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
@@ -269,16 +69,6 @@
       <guid>http://localhost:1313/samples/emoji/</guid>
       <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
       
-    </item>
-    
-    <item>
-      <title>Recipe Template</title>
-      <link>http://localhost:1313/guides/template/</link>
-      <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/guides/template/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/template/featured.jpg" />
     </item>
     
     <item>
@@ -292,71 +82,11 @@
     </item>
     
     <item>
-      <title>Documenti</title>
-      <link>http://localhost:1313/docs/_index.it/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Recipes</title>
-      <link>http://localhost:1313/guides/_index.it/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/guides/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>サンプル</title>
       <link>http://localhost:1313/samples/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
       <guid>http://localhost:1313/samples/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ドキュメント</title>
-      <link>http://localhost:1313/docs/_index.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>レシピ</title>
-      <link>http://localhost:1313/guides/_index.ja/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/guides/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>使用指南</title>
-      <link>http://localhost:1313/guides/_index.zh-cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/guides/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>文档</title>
-      <link>http://localhost:1313/docs/_index.zh-cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@urai-group.com (URAI)</author>
-      <guid>http://localhost:1313/docs/_index.zh-cn/</guid>
       <description></description>
       
     </item>
