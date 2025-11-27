@@ -1,113 +1,78 @@
 ---
-title: "Welcome"
-date: 2025-11-27T12:00:00Z
+title: "Welcome to Blowfish"
+weight: 1
 draft: false
-authors:
-  - "URAI"
-summary: "Welcome to the URAI blog website"
+description: "Discover what's new in Blowfish version 2.0."
+tags: ["new", "docs"]
+series: ["Documentation"]
+series_order: 1
 ---
 
-## Introduction
+{{< lead >}}
+Blowfish is packed with tons of features.
+{{< /lead >}}
 
-This guide covers the essential steps and advanced features—including LaTeX, figures, and custom HTML/CSS—for publishing research blogs on your Hugo site.
+The original aim of Blowfish was to develop a theme that was simple and lightweight. The theme is a fork of <a target="_blank" href="https://github.com/nunocoracao/congo">Congo</a> and expands its initial vision.
 
-## 1. Creating a New Blog Post
+## Tailwind CSS 3.0
 
-All blog posts are written in Markdown format and stored as files.
+Tailwind CSS is at the heart of Blowfish and this release contains the very latest [Tailwind CSS version 3](https://tailwindcss.com/blog/tailwindcss-v3). It brings with it performance optimisations and support for some great new CSS features.
 
-### 📝 Step 1: Generate the Post File
+{{< youtube "TmWIrBPE6Bc" >}}
 
-Use the following command in your site's root directory to create a new file. This command automatically sets up the necessary structure.
+## Multilingual support
 
-```bash
-hugo new posts/your-post-title.md
-```
+A highly requested feature, Blowfish is now multilingual! If you publish your content in multiple languages, the site will be built with all the translations available.
 
-**Tip:** Use lowercase and hyphens (e.g., `ai-in-biology` not `AI in Biology`).
+<div class="text-2xl text-center" style="font-size: 2.8rem">🇬🇧 🇩🇪 🇫🇷 🇪🇸 🇨🇳 🇧🇷 🇹🇷 🇧🇩</div>
 
-### ⚙️ Step 2: Edit the Front Matter
+Thanks to submissions from the community, Blowfish has already been translated into [thirty languages](https://github.com/nunocoracao/blowfish/tree/main/i18n) with more to be added over time. By the way, [pull requests](https://github.com/nunocoracao/blowfish/pulls) for new languages are always welcome!
 
-Open the newly created Markdown file (`content/posts/your-post-title.md`). The section at the top enclosed by `---` is the **Front Matter**:
+## RTL language support
 
-| Field | Description | Example |
-| :--- | :--- | :--- |
-| `title` | The main title of your post | `"A Deep Dive into Transformer Architectures"` |
-| `date` | The publication date | `2025-11-28T10:00:00+01:00` |
-| `author` | The author(s) name | `"Dr. Anya Schmidt"` |
-| `draft` | Set to `true` while working, `false` to publish | `false` |
-| `tags` | Keywords for categorization | `["AI", "Deep Learning", "NLP"]` |
+One of the benefits of the new Tailwind and Multilingual features is the ability to add RTL language support. When enabled, the entire site will reflow content from right-to-left. Every element in the theme has been restyled to ensure it looks great in this mode which aids authors who wish to generate content in RTL languages.
 
-## 2. Writing Content with Scientific Formatting
+RTL is controlled on a per-language basis so you can mix and match both RTL and LTR content in your projects and the theme will respond accordingly.
 
-### 📜 Markdown Basics
+## Automatic image resizing
 
-| Feature | Markdown Syntax |
-| :--- | :--- |
-| **Heading 2** | `## Your Sub-Section Title` |
-| *Italics* | `*text*` or `_text_` |
-| **Bold** | `**text**` or `__text__` |
-| Lists | `* Item 1` or `1. Item 1` |
-| Code Blocks | ` ```python\nprint("Hello")\n``` ` |
-| Blockquotes | `> This is a cited quote.` |
+A big change in Blowfish 2.0 is the addition of automatic image resizing. Using the power of Hugo Pipes, images in Markdown content are now automatically scaled to different output sizes. These are then presented using HTML `srcset` attributes enabling optimised file sizes to be served to your site visitors.
 
-### 📐 LaTeX for Equations (MathJax)
-
-**Inline Equations:** Use single dollar signs: `$E=mc^2$` → $E=mc^2$
-
-**Display Equations:** Use double dollar signs:
-```latex
-$$
-\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
-$$
-```
-
-### 🖼️ Including Figures and Images
-
-1. **Create a Page Bundle:** Rename your post file to `index.md` inside a folder named `your-post-title/`
-2. **Add Images:** Place images directly into this folder
-3. **Embed in Post:** `![A caption describing the image](model-architecture.png)`
-
-**Tip:** Use high-resolution images and SVG for diagrams.
-
-## 3. Advanced Features
-
-### 🎨 CSS-Embedded HTML
+![Image with alternate text](image-resizing.png)
 
 ```html
-<figure style="text-align: center;">
-  <img src="your-plot.png" alt="A plot showing loss over epochs">
-  <figcaption style="font-style: italic; color: #555;">
-    Figure 1: Loss function convergence for the ResNet model.
-  </figcaption>
-</figure>
+<!-- Markdown: ![My image](image.jpg) -->
+<img
+  srcset="
+    /image_320x0_resize_q75_box.jpg 320w,
+    /image_635x0_resize_q75_box.jpg 635w,
+    /image_1024x0_resize_q75_box.jpg 1024w"
+  src="/image_635x0_resize_q75_box.jpg"
+  alt="My image"
+/>
 ```
 
-### 📹 Embedding YouTube Videos
+Best of all there's nothing you need to change! Simply insert standard Markdown image syntax and let the theme do the rest. If you want a little more control, the `figure` shortcode has been completely rewritten to provide the same resizing benefits.
 
-`{{< youtube YOUTUBE_VIDEO_ID >}}`
 
-### 🔗 Citations and References
+## Site search
 
-```markdown
-## References
+Powered by [Fuse.js](https://fusejs.io), site search allows visitors to quickly and easily find your content. All searches are performed client-side meaning there's nothing to configure on the server and queries are performed super fast. Simply enable the feature in your site configuration and you're all set. Oh, and it also supports full keyboard navigation!
 
-1. A. Schmidt, et al. "Transformer-based Model for Text Classification." *Journal of AI Research*, 2024.
-2. I. Goodfellow, et al. *Deep Learning*. MIT Press, 2016.
-```
+## Tables of contents
 
-## 4. Publishing Your Post
+A highly requested feature, Blowfish now supports tables of contents on article pages. You can see it in action on this page. The contents are fully responsive and will adjust to take advantage of the space available at different screen resolutions.
 
-### 💻 Local Preview
+Available on a global or per article basis, the table of contents can be fully customised using standard Hugo configuration values, allowing you to adjust the behaviour to suit your project.
 
-```bash
-hugo server -D
-```
+## Accessibility improvements
 
-Visit `http://localhost:1313/` to verify formatting, LaTeX, and images.
+From adding ARIA descriptions to more items or simply adjusting the contrast of certain text elements, this release is the most accessible yet.
 
-### 🚀 Deployment
+Version 2 also introduces "skip to content" and "scroll to top" links that enable quick navigation. There's also keyboard shortcuts for enabling items like search without reaching for the mouse.
 
-1. Set `draft: false` in Front Matter
-2. Build the site: `hugo`
-3. Sync the `/public` directory to your hosting server
+The new image resizing features also provide full control over `alt` and `title` elements enabling an accessible experience for all visitors.
 
+## A whole lot more
+
+There's countless other features to explore. From being able to display taxonomies on articles and list pages, to using the new `headline` author parameter to customise your homepage. There's also improved JSON-LD structured data which further optimises SEO performance. 

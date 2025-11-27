@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on URAI Blog</title>
-    <link>https://blog.urai-group.com/tags/markdown/</link>
+    <link>http://localhost:1313/tags/markdown/</link>
     <description>Recent content in Markdown on URAI Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@urai-group.com (URAI)</managingEditor>
     <webMaster>contact@urai-group.com (URAI)</webMaster>
     <copyright>© 2025 URAI</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.urai-group.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Markdown</title>
-      <link>https://blog.urai-group.com/samples/markdown/</link>
+      <link>http://localhost:1313/samples/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/markdown/</guid>
+      <guid>http://localhost:1313/samples/markdown/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://blog.urai-group.com/samples/placeholder-text/</link>
+      <link>http://localhost:1313/samples/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <author>contact@urai-group.com (URAI)</author>
-      <guid>https://blog.urai-group.com/samples/placeholder-text/</guid>
+      <guid>http://localhost:1313/samples/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
     </item>
