@@ -1,0 +1,62 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "Blog"
+url = "/blog"
+weight=3
+
+[[main]]
+name = "Authors"
+url = "/authors"
+weight=4
+
+[[main]]
+name = "Markdown howto"
+url = "/markdown-howto"
+weight = 5
+
+[[main]]
+weight = 6
+name = "Links"
+
+[[main]]
+parent = "Links"
+name = "Contact us"
+url = "/contact"
+
+[[main]]
+parent = "Links"
+name = "Categories"
+url = "/categories"
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 2
+
+[[footer]]
+name = "Impressum"
+url = "/impressum"
+weight = 3
+
+[[footer]]
+name = "Contact us"
+url = "/contact"
+weight = 4
