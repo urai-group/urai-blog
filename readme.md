@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/images/urai-favicon-bw/urai-favicon-bw.png" width=300px>
+    <img src="./assets/images/urai-favicon-bw/urai-favicon-bw.png" width=150px>
     <h1>URAI Blog website</h1>
 </div>
 
