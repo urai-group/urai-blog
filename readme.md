@@ -1,4 +1,7 @@
-<h1 align="center">URAI Blog website</h1>
+<div align="center">
+    <img src="./assets/images/urai-logo-darkmode.png" height=300px>
+    <h1>URAI Blog website</h1>
+</div>
 
 Welcome to the official Blog website of the [URAI
 group](https://urai-group.com). In this repository, you will find the
