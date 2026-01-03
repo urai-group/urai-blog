@@ -463,3 +463,11 @@ Embed youtube videos.
 Display a custom video.
 
 {{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
+
+### Conclusion
+
+Thank you for reading. The source code of this blog is available at
+[Github
+here](https://github.com/urai-group/urai-blog/blob/main/content/english/pages/markdown-howto.md?plain=1). Please read the source code for a more through understanding.
+
+Happy writing 🤗
